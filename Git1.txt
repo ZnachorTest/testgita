@@ -1,4 +1,7 @@
 Test gita
 123
 Nowa wersja
+Dla klienta101
 Wersja klient102
+Przypomnij haslo
+
